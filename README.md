@@ -124,6 +124,10 @@ list dengan rincian sebagai berikut:
 - Buat flowchart dan penjelasan programnya pada README.md.
 
 - Commit dan push repository ke github.
+- 
+## Flowchartnya
+![Alt text](Gambar/delpano.png)
+
 ```Python
 # LIST
 nama = []
@@ -166,4 +170,4 @@ for nama, nim, Tugas, UTS, UAS, nilaiAkhir in zip(nama, nim, nilaiTugas, nilaiUT
 print("+----+-----------------------+--------+--------+-------+-------+---------+")
 ```
 ## Hasil program
-![Alt text](gambar/delyno3.png)
+![Alt text](Gambar/delyno3.png)
